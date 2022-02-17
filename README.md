@@ -1,5 +1,5 @@
-# horaReunionVengadores
-Ejercicio Final Torneo Cocidgo
+# Horas de Reuniones Vengadores.
+Ejercicio Final Torneo Código
 
 Horas de Reuniones Vengadores.
 
